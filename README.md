@@ -8,6 +8,8 @@ I'm currently working as a Data Engineer at Korcomptenz, and I have near to 3 ye
 
 My Mantra: "Knowlege is Everyone's Ornament"
 
+For a Journey in Data Science, I believe a important Quote that "Rome was not built in a Day"
+
 I have read this Mantra about an year ago, and this made me to keep on Upskilling and grow on everyday.
 
 My Goal: To develop AI Applications, from Traditional Machine Learning to Agentic AI Systems, and add value to the Organization
