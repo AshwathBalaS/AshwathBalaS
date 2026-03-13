@@ -304,6 +304,37 @@ Machine Learning Pipeline: Data collection, preprocessing, model building, and e
 
 **Generative AI** - Prompt - LLM - Output
 
+**1.** The Core I believe - Large Language Models (LLMs) & transformer-based systems, Embeddings, semantic search, Token economics, latency optimization, Evaluation, observability
+
+Transformer architecture basics (attention, tokens, embeddings), Prompt engineering (system, user, role, constraints), Context window management & truncation strategies, Tokenization, latency, and cost trade-offs, Model selection (general vs domain-specific)
+
+Retrieval-Augmented Generation (RAG) - End-to-end RAG pipeline design, Chunking strategies & embedding quality, Vector databases & hybrid search,  Grounding responses to avoid hallucinations, Agentic RAG and multi-step retrieval
+
+Embeddings & Vector Search - Embedding model selection, Similarity metrics (cosine, dot), ANN indexing strategies, Metadata filtering and re-ranking
+
+AI Agents & Agentic Systems - Tool-using agents (search, DB, APIs), Memory types (short-term, long-term, episodic), State management & execution tracking, Feedback loops and self-reflection, Multi-agent collaboration patterns
+
+Evaluation & Observability (Very Important) - LLM output evaluation strategies, RAG retrieval quality measurement, Prompt regression testing, Logging, tracing, and monitoring, Human-in-the-loop feedback loops
+
+Security & Responsible AI - Prompt injection & jailbreak prevention, Data leakage & PII handling, Access control in RAG systems, Guardrails and content filtering, Compliance-aware system design
+
+Production & MLOps for GenAI - API rate limits and retry strategies, Caching and response reuse, Horizontal scaling of GenAI services, Versioning prompts and models, Rollback strategies for bad outputs
+
+Fine-Tuning & Customization (Good to Have) - Fine-tuning vs RAG decision making, LoRA / parameter-efficient tuning concepts, Dataset preparation and labeling, Evaluation before and after tuning
+
+Product & Business Thinking (Highly Valued) - Identifying GenAI-fit problems, ROI, cost control, and usage monitoring, UX for AI-powered products, Failure modes & fallback strategies
+
+**2.** Vector Databases - FAISS, Pinecone, ChromaDB
+
+**3.** Retrieval-Augmented Generation - Data Ingestion, Chunking, Embedding, Indexing, Retrieval (Similarity search (cosine, dot product), Top-K and score-threshold, retrieval, Metadata filtering, Hybrid search (vector + keyword)), 
+
+Evaluation & Optimization (Retrieval quality evaluation, Latency vs accuracy trade-offs, Cost-aware chunking and retrieval, Monitoring RAG performance in production)
+
+Security & Production Readiness (Access-controlled document retrieval, Data privacy and tenant isolation, Logging, tracing, and observability)
+
+**4.** Finetuning - LoRA, QLoRA, 
+
+
 **Agentic AI**: Goal - Think - Plans - Act (Tool) - Observe - Adapts based on Feedback - Final Output
 
 **1.** The Core I Believe: LLM, Propmt/Instructions, Tools  (Action Layer), Memory (Context Layer), State (Execution Tracking), Guardrails (Safety and Control Layer), Evaluation and Observability;
@@ -348,13 +379,11 @@ My Honest answer is, after the "Complete Data Science,Machine Learning,DL,NLP Bo
 
 I'm currently part of Euron's following Bootcamp:
 
-(i) Gen AI Certification Bootcamp 2.0
+(i) AI Architect Mastery: LLMOps, Cloud & Enterprise GenAI Systems
 
-(ii) AI Architect Mastery: LLMOps, Cloud & Enterprise GenAI Systems
+(ii) AI Product Engineering
 
-(iii) AI Product Engineering
-
-(iv) Future-Proof AI Automation Bootcamp
+(iii) Future-Proof AI Automation Bootcamp
 
 One of the common Questions that arises is, how I manage to upskill myself, and stay relevant to Industry Trends; The total credits goes to the subscriptions I have bought to learn and master every skill. I have the following subscriptions to upskill:
 
