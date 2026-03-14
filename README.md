@@ -8,29 +8,19 @@ I'm Ashwath Bala S, a Data, AI and Automation Professional based in Chennai.
 
 I'm currently working as a Data Engineer at Korcomptenz, and I have near to 3 years of Industry experience.
 
-**Mindset & Motivation:**
-
 My Mantra: "Knowlege is Everyone's Ornament"
 
 For a Journey in Data Science: I strongly believe an important Quote: "Rome was not built in a Day"
 
 I came across these quotes about a year ago, and they completely changed my mindset—pushing me to upskill continuously and grow every single day.
 
-**My Career Goal:** 
-
 My goal is to design and build end-to-end AI applications, ranging from traditional Machine Learning systems to advanced Agentic AI solutions, while consistently delivering real business value to teams and organizations.
-
-**My Perspective:**
 
 I don't want to be the Data Guy, who has expertise in AI, but has limited knowledge on Big Data or Analytics; I want to be expert in Data, AI & Automation, and improving step by step each day.
 
-**End-to-End Ownership:**
-
 I want to be part of entire Machine Learning Lifecycle from: Data collection and Ingestion, Data Preprocessing, Feature Engineering, Model Selection, Model Training, Model Evaluation and Optimization, Model Deployment, Model Monitoring and Drift Detection, Model Retraining and Continuous Improvement
 
-**Long-term Motivation:**
-
-To become a master and expert in AI and Data Science — from building models to deploying and maintaining production-grade systems.
+My long-term motivation is to become a master and expert in AI and Data Science — from building models to deploying and maintaining production-grade systems.
 
 ### II) I'm currently looking for:
 
