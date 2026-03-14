@@ -131,6 +131,130 @@ Statistical Tests & Experimentation: Z-Test and t-Test, Chi-Square Test, ANOVA (
 
 (iv) Model Evaluation Metrics: Classification Metrics (Accuracy, Precision, Recall, F1-Score, Confusion Matrix), Regression Metrics (Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-Squared (R²), Adjusted R²), Ranking & Probabilistic Metrics (ROC Curve, ROC-AUC, Precision–Recall Curve, Log Loss)
 
+**4. Deep Learning:**
+
+(i) Neural Network Fundamentals - Artificial Neural Networks (ANN), Perceptron and multi-layer perceptron (MLP), forward propagation and backpropagation, activation functions (ReLU, Leaky ReLU, Sigmoid, Tanh, Softmax), weight initialization techniques, vanishing and exploding gradient problems, batch normalization, layer normalization.
+
+(ii) Deep Learning Architectures - Feedforward Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Advanced RNN Architectures, Transformer-based Architectures
+
+(iii) Loss Functions: Regression Loss Functions (Mean Squared Error (MSE), Mean Absolute Error (MAE), Huber Loss), Classification Loss Functions (Binary Cross-Entropy, Categorical Cross-Entropy, Sparse Categorical Cross-Entropy)
+
+(iv) Optimization Algorithms: 
+
+Gradient Descent, Stochastic Gradient Descent (SGD), Mini-Batch Gradient Descent, Momentum Optimization, RMSProp, Adam Optimizer, AdamW.
+
+Learning rate scheduling techniques (step decay, cosine annealing, adaptive learning rates).
+
+(v) Regularization Techniques: L1 and L2 Regularization, Dropout, Early Stopping, Data Augmentation, Batch Normalization.
+
+(vi) Model Training Techniques: Batch training and mini-batch training, learning rate tuning, gradient clipping, weight initialization strategies, transfer learning, fine-tuning pre-trained models.
+
+**5. Natural Language Processing (NLP): Machine Learning and Deep Learning**
+
+(i) Text Preprocessing – Tokenization, Stopword Removal, Stemming, Lemmatization, Part-of-Speech (POS) Tagging, Text Normalization.
+
+(ii) Text Preprocessing – (Text Vectorization): Bag of Words (BoW), TF-IDF Vectorization, Unigrams, Bigrams, n-grams.
+
+(iii) Word Embeddings: Word2Vec (CBOW, Skip-Gram), Average Word2Vec, GloVe, FastText using Gensim.
+
+(iv) Classical Machine Learning Techniques for NLP - Text classification, sentiment analysis, spam detection
+
+(v) Artificial Neural Networks - Feedforward Neural Networks (Text representation and classification)
+
+(vi) Recurrent Neural Networks for NLP: Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU) for sequence modeling.
+
+(vii) Advanced Sequence Models: Bidirectional LSTM, Encoder–Decoder architectures, Sequence-to-Sequence (Seq2Seq) models.
+
+(viii) Attention Mechanisms: Attention models for sequence learning and contextual understanding.
+
+(ix) Transformer Architectures: Self-attention mechanisms, encoder–decoder transformer models.
+
+**6. Computer Vision: Machine Learning and Deep Learning**
+
+(i) Core Tasks: Image Classification, Object Detection, Image Segmentation, Data Augmentation  
+
+(ii) Image Fundamentals:
+
+(a) Image Basics: Pixels, Resolution, Channels (RGB, Grayscale)
+
+(b) Colour Spaces: RGB, HSV, Grayscale
+
+(c) Image Representation: Image as matrix, Image as tensor, Channel-first vs Channel-last
+
+(d) Image Transformations: Resize, Scaling, Interpolation, Cropping, Rotation, Flipping
+
+(e) Co-Ordinate Systems: Pixel coordinates, Image origin, Bounding box coordinates
+
+(f) Image Manipulations (Geometric Transformations): Translation, Rotation, Affine transformation, Perspective transformation
+
+(g) Image Filtering & Smoothing (Noise Removal and Preprocessing): 
+
+Image Filters: Averaging Filter, Gaussian Blur, Median Filter, Bilateral Filter
+
+Sharpening: Laplacian filter, High-pass filters
+
+(h) Edge Detection (Detect boundaries in images): 
+
+Classical Methods: Sobel Edge Detector, Canny Edge Detector, Laplacian Edge Detector
+
+Gradient Concepts: Gradient magnitude, Gradient direction
+
+(i) Histogram Techniques (Contrast Enhancement and Image Analysis): Histogram plotting, Histogram equalization, CLAHE (Contrast Limited Adaptive Histogram Equalization)
+
+(j) Contours & Shape Detection (Object Boundary Detection): 
+
+Contour Operations: Finding contours, Contour approximation, Contour hierarchy
+
+Shape Detection: Rectangle detection, Circle detection, Polygon detection
+
+(iii) Image Segmentation (Classical) (Separating foreground and background): Thresholding, Adaptive thresholding, Otsu thresholding, Color thresholding, Watershed algorithm, Region-based segmentation
+
+(iv) Machine Learning for Computer Vision: Before Deep Learning for Computer Vision, Classical Machine Learning was used on extracted features
+
+(a) Feature Extraction: Histogram of Oriented Gradients (HOG), Scale-Invariant Feature Transform (SIFT), Speeded-Up Robust Features (SURF) Oriented FAST and Rotated BRIEF (ORB)
+
+(b) Classical Object Detection: Haar Cascade Object Detection (Haar features, Integral image, Cascade classifiers) 
+
+(c) Feature Matching: Brute Force Matcher, Fast Library for Approximate Nearest Neighbors (FLANN) Matcher
+
+(d) Machine Learning Algorithms: Logistic Regression, Random Forest, Support Vector Machine, K-Nearest Neighbors
+
+(v) Deep Learning for Computer Vision: 
+
+(a) Convolutional Neural Networks (CNN): 
+
+Components: Convolution layer, Filters/Kernels, Feature maps, Pooling layers, Fully connected layers
+
+Core Concepts: Receptive field, Stride, Padding, Feature map size calculation, Parameter calculation
+
+(b) CNN Architectures: 
+
+Early Models: LeNet (CNN for digit recognition)
+
+Deep CNN Models: AlexNet (Deep CNN Revolution), VGG (Very Deep Architecture)
+
+Advanced Architectures: Inception (GoogLeNet) (Multi-Scale Convolutions), ResNet (Residual connections, Skip connections)
+
+(c) Transfer Learning: Utilizes Pretrained models, Feature extraction, Fine-tuning
+
+(d) Object Detection: 
+
+Foundations: Bounding boxes, IoU (Intersection over Union), Precision & Recall, mAP (Mean Average Precision), Grid detection, Anchor boxes
+
+Object Detection Architectures: 
+
+Two-stage Detectors: R-CNN, Fast R-CNN, Faster R-CNN
+
+One-stage Detectors: You Only Look Once (YOLO), Single Shot MultiBox Detector (SSD) 
+
+(e) Image Segmentation: 
+
+Foundations: Semantic Segmentation (Every pixel classified), Instance Segmentation (Each object instance separated), Downsampling (Pooling, Strided convolution), Upsampling (Transposed convolution, Interpolation), Segmentation Loss Functions (Cross Entropy, Dice Loss)
+
+Segmentation Architectures: Fully Convolutional Networks (FCN), U-Net, Mask R-CNN
+
+
+
 You can check out my certifications at: 
 
 If you are with me till here, Thank you once again, and feel 
