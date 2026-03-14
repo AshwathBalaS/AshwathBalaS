@@ -91,7 +91,7 @@ My Mentors:
 
 ### V) AI and Data Science Skillset Snapshot:
 
-**I) Mathematical Foundations:**
+**1. Mathematical Foundations:**
 
 (i) Overall - Data formats, Features (independent variables) and labels/targets (dependent variables), Continuous, discrete, and categorical data
 
@@ -109,7 +109,7 @@ Statistical Tests & Experimentation: Z-Test and t-Test, Chi-Square Test, ANOVA (
 
 (iv) Differential Calculus: Limits & Continuity, Derivatives, Higher-Order Derivatives, Partial Derivatives, Chain Rule, Multivariable Differentiation, Gradient & Directional Derivatives, Jacobian and Hessian Matrices, Taylor Series Approximation, Implicit Differentiation, Sensitivity Analysis.
 
-**II) Exploratory Data Analysis (EDA), Data Pre-Processing, Feature Engineering, Feature Selection and Extraction Technique, Dimensinality Reduction**
+**2. Exploratory Data Analysis (EDA), Data Pre-Processing, Feature Engineering, Feature Selection and Extraction Technique, Dimensinality Reduction**
 
 (i) Exploratory Data Analysis (EDA): Dataset Structure Analysis, data types & schema, summary statistics and descriptive analysis, univariate/bivariate/multivariate analysis, correlation & covariance analysis, data distribution analysis (skewness, kurtosis), outlier detection & anomaly identification, data imbalance analysis, pattern discovery & trend analysis, data visualization techniques (histograms, box plots, scatter plots, heatmaps).
 
@@ -121,249 +121,15 @@ Statistical Tests & Experimentation: Z-Test and t-Test, Chi-Square Test, ANOVA (
 
 (vi) Dimensionality Reduction Techniques: Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA)
 
-**III) Machine Learning – Model Development**
+**3. Machine Learning:**
 
-(i) Supervised Learning Algorithms: 
+(i) Supervised Learning: Regression and Classification (Linear Models, Trees, Ensembles, SVM, KNN)
 
-Regression: Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Elastic Net Regression, Support Vector Regression (SVR), Decision Tree Regression, Random Forest Regression, Gradient Boosting Regression.
+(ii) Unsupervised Learning: Clustering, Association Rules, Anomaly Detection
 
-Classification: Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, Random Forests, Naïve Bayes, Gradient Boosting Classifiers.
+(iii) Model Training & Validation: Train-test split strategies, bias-variance trade-off analysis, Cross-Validation Techniques, Hyperparameter Tuning model performance comparison
 
-(ii) Unsupervised Learning Algorithms:
-
-Clustering: K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models (GMM).
-
-Association Rule Learning: Apriori Algorithm, FP-Growth.
-
-Anomaly Detection: Isolation Forest, One-Class SVM, Local Outlier Factor (LOF).
-
-(iii) Model Training & Validation: Train-test split strategies, bias-variance trade-off analysis, model performance comparison
-
-Cross-Validation Techniques: K-Fold Cross-Validation, Stratified K-Fold Cross-Validation, Leave-One-Out Cross-Validation, Time-Series Cross-Validation.
-
-Hyperparameter Optimization: Grid Search, Random Search, Bayesian Optimization
-
-(iv) Model Evaluation Metrics:
-
-Classification Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
-
-Regression Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-Squared (R²), Adjusted R².
-
-Ranking & Probabilistic Metrics: ROC Curve, ROC-AUC, Precision–Recall Curve, Log Loss.
-
-**IV) Deep Learning – Neural Networks & Representation Learning**
-
-(i) Neural Network Fundamentals - Artificial Neural Networks (ANN), Perceptron and multi-layer perceptron (MLP), forward propagation and backpropagation, activation functions (ReLU, Leaky ReLU, Sigmoid, Tanh, Softmax), weight initialization techniques, vanishing and exploding gradient problems, batch normalization, layer normalization.
-
-(ii) Deep Learning Architectures:
-
-(a) Feedforward Neural Networks: Multi-Layer Perceptrons (MLP) for tabular data.
-
-(b) Convolutional Neural Networks (CNN): Convolution layers, pooling layers, padding and stride, feature maps, architectures such as LeNet, AlexNet, VGG, ResNet.
-
-(c) Recurrent Neural Networks (RNN): Vanilla RNN, sequence modeling, long-term dependencies.
-
-(d) Advanced RNN Architectures: Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU).
-
-(e) Transformer-based Architectures: Self-Attention mechanisms, Encoder-Decoder architecture, attention mechanisms used in modern deep learning models.
-
-(iii) Loss Functions: 
-
-Regression Loss Functions: Mean Squared Error (MSE), Mean Absolute Error (MAE), Huber Loss.
-
-Classification Loss Functions: Binary Cross-Entropy, Categorical Cross-Entropy, Sparse Categorical Cross-Entropy.
-
-Advanced Loss Functions: Hinge Loss, Kullback–Leibler (KL) Divergence.
-
-(iv) Optimization Algorithms: 
-
-Gradient Descent, Stochastic Gradient Descent (SGD), Mini-Batch Gradient Descent, Momentum Optimization, RMSProp, Adam Optimizer, AdamW.
-
-Learning rate scheduling techniques (step decay, cosine annealing, adaptive learning rates).
-
-(v) Regularization Techniques: L1 and L2 Regularization, Dropout, Early Stopping, Data Augmentation, Batch Normalization.
-
-(vi) Model Training Techniques: Batch training and mini-batch training, learning rate tuning, gradient clipping, weight initialization strategies, transfer learning, fine-tuning pre-trained models.
-
-**(V) Natural Language Processing: Machine Learning and Deep Learning**
-
-(i) Text Preprocessing – Tokenization, Stopword Removal, Stemming, Lemmatization, Part-of-Speech (POS) Tagging, Text Normalization.
-
-(ii) Text Preprocessing – (Text Vectorization): Bag of Words (BoW), TF-IDF Vectorization, Unigrams, Bigrams, n-grams.
-
-(iii) Word Embeddings: Word2Vec (CBOW, Skip-Gram), Average Word2Vec, GloVe, FastText using Gensim.
-
-(iv) Classical Machine Learning Techniques for NLP: Text classification, sentiment analysis, spam detection using Logistic Regression, Naïve Bayes, Support Vector Machines (SVM), Random Forest.
-
-(v) Artificial Neural Networks for NLP: Feedforward Neural Networks for text representation and classification.
-
-(vi) Recurrent Neural Networks for NLP: Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU) for sequence modeling.
-
-(vii) Advanced Sequence Models: Bidirectional LSTM, Encoder–Decoder architectures, Sequence-to-Sequence (Seq2Seq) models.
-
-(viii) Attention Mechanisms: Attention models for sequence learning and contextual understanding.
-
-(ix) Transformer Architectures: Self-attention mechanisms, encoder–decoder transformer models.
-
-**(vi) Computer Vision: Machine Learning and Deep Learning**
-
-(i) Key Skills: Data Augmentation, Image Classification, Image Segmentation, Object Detection 
-
-(ii) Image Fundamentals:
-
-(a) Image Basics: Pixels, Resolution, Channels (RGB, Grayscale), Bit Depth, Image formats (PNG, JPEG, BMP)
-
-(b) Colour Spaces: RGB, HSV, LAB, YCbCr, Grayscale
-
-(c) Image Representation: Image as matrix, Image as tensor, Channel-first vs Channel-last
-
-(d) Image Transformations: Resize, Scaling, Interpolation, Cropping, Rotation, Flipping
-
-(e) Co-Ordinate Systems: Pixel coordinates, Image origin, Bounding box coordinates
-
-(f) Image Manipulations (Geometric Transformations): Translation, Rotation, Affine transformation, Perspective transformation
-
-(g) Image Filtering & Smoothing (Noise Removal and Preprocessing): 
-
-Image Filters: Averaging Filter, Gaussian Blur, Median Filter, Bilateral Filter
-
-Sharpening: Laplacian filter, High-pass filters
-
-(h) Edge Detection (Detect boundaries in images): 
-
-Classical Methods: Sobel Edge Detector, Canny Edge Detector, Laplacian Edge Detector
-
-Gradient Concepts: Gradient magnitude, Gradient direction
-
-(i) Histogram Techniques (Contrast Enhancement and Image Analysis): Histogram plotting, Histogram equalization, CLAHE (Contrast Limited Adaptive Histogram Equalization)
-
-(j) Contours & Shape Detection (Object Boundary Detection): 
-
-Contour Operations: Finding contours, Contour approximation, Contour hierarchy
-
-Shape Detection: Rectangle detection, Circle detection, Polygon detection
-
-(iii) Image Segmentation (Classical) (Separating foreground and background): Thresholding, Adaptive thresholding, Otsu thresholding, Color thresholding, Watershed algorithm, Region-based segmentation
-
-(iv) Machine Learning for Computer Vision: Before Deep Learning for Computer Vision, Classical Machine Learning was used on extracted features
-
-(a) Feature Extraction: Histogram of Oriented Gradients (HOG), Scale-Invariant Feature Transform (SIFT), Speeded-Up Robust Features (SURF) Oriented FAST and Rotated BRIEF (ORB)
-
-(b) Classical Object Detection: Haar Cascade Object Detection (Haar features, Integral image, Cascade classifiers) 
-
-(c) Feature Matching: Brute Force Matcher, Fast Library for Approximate Nearest Neighbors (FLANN) Matcher
-
-(d) Machine Learning Algorithms: Logistic Regression, Random Forest, Support Vector Machine, K-Nearest Neighbors
-
-(v) Deep Learning for Computer Vision: 
-
-(a) Convolutional Neural Networks (CNN): 
-
-Components: Convolution layer, Filters/Kernels, Feature maps, Pooling layers, Fully connected layers
-
-Core Concepts: Receptive field, Stride, Padding, Feature map size calculation, Parameter calculation
-
-(b) CNN Architectures: 
-
-Early Models: LeNet (CNN for digit recognition)
-
-Deep CNN Models: AlexNet (Deep CNN Revolution), VGG (Very Deep Architecture)
-
-Advanced Architectures: Inception (GoogLeNet) (Multi-Scale Convolutions), ResNet (Residual connections, Skip connections)
-
-(c) Transfer Learning: Utilizes Pretrained models, Feature extraction, Fine-tuning
-
-(d) Object Detection: 
-
-Foundations: Bounding boxes, IoU (Intersection over Union), Precision & Recall, mAP (Mean Average Precision), Grid detection, Anchor boxes
-
-Object Detection Architectures: 
-
-Two-stage Detectors: R-CNN, Fast R-CNN, Faster R-CNN
-
-One-stage Detectors: You Only Look Once (YOLO), Single Shot MultiBox Detector (SSD) 
-
-(e) Image Segmentation: 
-
-Foundations: Semantic Segmentation (Every pixel classified), Instance Segmentation (Each object instance separated), Downsampling (Pooling, Strided convolution), Upsampling (Transposed convolution, Interpolation), Segmentation Loss Functions (Cross Entropy, Dice Loss)
-
-Segmentation Architectures: Fully Convolutional Networks (FCN), U-Net, Mask R-CNN
-
-(vii) Computer Vision Project Pipeline (I have learnt): 
-
-Image Collection, Data Annotation (Label images for tasks like classification, bounding boxes, masks), Preprocessing (Resize, normalize, denoise, and prepare images for the model), Data Augmentation (Create variations - rotation, flipping, brightness changes to improve generalization), Feature Extraction (Extract meaningful features - HOG, SIFT), Data Loading Pipeline (Custom Dataset, DataLoader, Batch Loading, Shuffling), Model Training (CNN / Transfer Learning), Model Evaluation (Accuracy, Precision, Recall, F1, IoU, mAP), Object Detection / Segmentation (YOLO, SSD, Mask R-CNN, U-Net), Deployment (Gradio / API)
-
-
-
-
-
-
-
-**II) Machine Learning:**
-
-Machine Learning Pipeline: Data collection, preprocessing, model building, and evaluation
-
-
-
-
-**IV** Agentic AI: 
-
-**Generative AI** - Prompt - LLM - Output
-
-**1.** The Core I believe - Large Language Models (LLMs) & transformer-based systems, Embeddings, semantic search, Token economics, latency optimization, Evaluation, observability
-
-Transformer architecture basics (attention, tokens, embeddings), Prompt engineering (system, user, role, constraints), Context window management & truncation strategies, Tokenization, latency, and cost trade-offs, Model selection (general vs domain-specific)
-
-Retrieval-Augmented Generation (RAG) - End-to-end RAG pipeline design, Chunking strategies & embedding quality, Vector databases & hybrid search,  Grounding responses to avoid hallucinations, Agentic RAG and multi-step retrieval
-
-Embeddings & Vector Search - Embedding model selection, Similarity metrics (cosine, dot), ANN indexing strategies, Metadata filtering and re-ranking
-
-AI Agents & Agentic Systems - Tool-using agents (search, DB, APIs), Memory types (short-term, long-term, episodic), State management & execution tracking, Feedback loops and self-reflection, Multi-agent collaboration patterns
-
-Evaluation & Observability (Very Important) - LLM output evaluation strategies, RAG retrieval quality measurement, Prompt regression testing, Logging, tracing, and monitoring, Human-in-the-loop feedback loops
-
-Security & Responsible AI - Prompt injection & jailbreak prevention, Data leakage & PII handling, Access control in RAG systems, Guardrails and content filtering, Compliance-aware system design
-
-Production & MLOps for GenAI - API rate limits and retry strategies, Caching and response reuse, Horizontal scaling of GenAI services, Versioning prompts and models, Rollback strategies for bad outputs
-
-Fine-Tuning & Customization (Good to Have) - Fine-tuning vs RAG decision making, LoRA / parameter-efficient tuning concepts, Dataset preparation and labeling, Evaluation before and after tuning
-
-Product & Business Thinking (Highly Valued) - Identifying GenAI-fit problems, ROI, cost control, and usage monitoring, UX for AI-powered products, Failure modes & fallback strategies
-
-**2.** Vector Databases - FAISS, Pinecone, ChromaDB
-
-**3.** Retrieval-Augmented Generation - Data Ingestion, Chunking, Embedding, Indexing, Retrieval (Similarity search (cosine, dot product), Top-K and score-threshold, retrieval, Metadata filtering, Hybrid search (vector + keyword)), 
-
-Evaluation & Optimization (Retrieval quality evaluation, Latency vs accuracy trade-offs, Cost-aware chunking and retrieval, Monitoring RAG performance in production)
-
-Security & Production Readiness (Access-controlled document retrieval, Data privacy and tenant isolation, Logging, tracing, and observability)
-
-**4.** Finetuning - LoRA, QLoRA, 
-
-
-**Agentic AI**: Goal - Think - Plans - Act (Tool) - Observe - Adapts based on Feedback - Final Output
-
-**1.** The Core I Believe: LLM, Propmt/Instructions, Tools  (Action Layer), Memory (Context Layer), State (Execution Tracking), Guardrails (Safety and Control Layer), Evaluation and Observability;
-
-**2.** Important Points for Agentic AI: Cost and Rate Limit, Latency, Monitoring, Security, Scaling, Logging, Tracing
-
-**3.** Key Concepts I learnt - Data Validation (Pydantic), Fundamentals of GenAI (Embedding, LLM, Finetuning, RAG - Agentic RAG), Multi-Agent Orchestration (With Supervisor/Hierarchical Agent), Context Engineering, Human-In the Loop 
-
-**4.** Frameworks I learnt to build and orchestrate AI agents and multi-agent workflows: 
-
-(i) LangGraph (LangChain)
-
-(ii) AutoGen (Microsoft)
-
-(iii) CrewAI (Open-Source Python Framework) 
-
-(iv) Microsoft Agent Framework (Microsoft)
-
-**4. Communication Protocol Layers**
-
-(i) MCP (Python Library - FastMCP)
-
-(ii) Agent-to-Agent Protocol (A2A - Google)
+(iv) Model Evaluation Metrics: Classification Metrics (Accuracy, Precision, Recall, F1-Score, Confusion Matrix), Regression Metrics (Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-Squared (R²), Adjusted R²), Ranking & Probabilistic Metrics (ROC Curve, ROC-AUC, Precision–Recall Curve, Log Loss)
 
 You can check out my certifications at: 
 
