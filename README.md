@@ -22,13 +22,7 @@ I want to be part of entire Machine Learning Lifecycle from: Data collection and
 
 My long-term motivation is to become a master and expert in AI and Data Science — from building models to deploying and maintaining production-grade systems.
 
-### II) I'm currently looking for:
-
-I am actively exploring opportunities as a Data Scientist.
-
-I’m interested in building end-to-end AI/ML systems, working across Machine Learning and Deep Learning, and leveraging tools such as GitHub, Docker, and Grafana to deliver scalable, production-ready AI solutions for teams and organizations.
-
-### III) My Core Belief About a Data Scientist:
+### II) My Core Belief About a Data Scientist:
 
 I believe a Data Scientist is an expert and well rounded professional across the following core areas:
 
@@ -44,18 +38,11 @@ From optimizing loss functions and interpreting model behavior to validating out
 (v) Adaptable with GenAI and Agentic AI - Goes beyond traditional models by effectively leveraging Generative AI and Agentic AI to build intelligent, autonomous systems. From prompt engineering and RAG-based architectures to tool-using agents and multi-step reasoning workflows, driving next-generation, future-ready AI solutions.
 
 
+### III) I'm currently looking for:
 
-My Mentors:
+I am actively exploring opportunities as a Data Scientist.
 
-(i) Krish Naik
-
-(ii) Sudhanshu Kumar (Euron)
-
-(iii) Dhaval Patel (CodeBasics)
-
-(iv) Ed Donner 
-
-(v) Dhruv (Euron)
+I’m interested in building end-to-end AI/ML systems, working across Machine Learning and Deep Learning, and leveraging tools such as GitHub, Docker, and Grafana to deliver scalable, production-ready AI solutions for teams and organizations.
 
 ### IV) My Skills:
 
@@ -195,42 +182,27 @@ Statistical Tests & Experimentation: Z-Test and t-Test, Chi-Square Test, ANOVA (
 
 (e) Image Segmentation: Fully Convolutional Networks (FCN), U-Net, Mask R-CNN
 
-
-
-You can check out my certifications at: 
-
-If you are with me till here, Thank you once again, and feel 
-
-If you need an 
-
-(i) Analyst who can not just analyze data, but convey insights out of it
-
-(ii) Data Engineer, who can build meta-data driven pipelines
-
-If my Goals, Skills, align with your Organization's Vision, feel free to reach me out at ashwathbala0510@gmail.com
-
-I am actively looking for Opportunities as a "Data Scientist"
-
-Before that I get you, why this guy prefers too many courses...
-
-My Honest answer is, after the "Complete Data Science,Machine Learning,DL,NLP Bootcamp" Course by Krish Naik, which is of 99 hours, I have developed the discipline to learn on a daily basis, and increased my eagerness to learn and master on the field of Data Science and AI.
+### VI) Certifications:
 
 
 
-One of the common Questions that arises is, how I manage to upskill myself, and stay relevant to Industry Trends; The total credits goes to the subscriptions I have bought to learn and master every skill. I have the following subscriptions to upskill:
+### VII) My Mentors:
 
-(i) PluralSight - A Global Leader in tech skills dev platforms (Recognized by Forrester Wave in 2025)
+I firmly believe on a quote that, "A mentor doesn’t just teach skills — they shape how you think, learn, and grow"
 
-(ii) Euron - The best platform I believe to master AI
+I’m fortunate to have learned from inspiring mentors who have significantly influenced my journey in Data Science and AI:
 
-(iii) Krish Naik Academy
+(i) Krish Naik
 
-These subscriptions shapes me to stay relevant in Industry relevant Skills;
+(ii) Sudhanshu Kumar (Euron)
 
+(iii) Dhaval Patel (CodeBasics)
 
+(iv) Ed Donner 
 
+(v) Dhruv (Euron)
 
-### Why I Invest Deeply in Continuous Learning:
+### VIII) Why I Invest Deeply in Continuous Learning:
 
 A common question I come across is: “Why so many courses?”
 
@@ -238,7 +210,7 @@ My honest answer is — Discipline and Curiosity.
 
 After completing the "Complete Data Science, Machine Learning, Deep Learning, and NLP Bootcamp (99 hours)" by Krish Sir, I developed a strong habit of learning every single day. That experience didn’t just teach me concepts; It built consistency, focus, and a long-term mindset to master Data Science and AI.
 
-### My Current Learnings:
+### IX) My Current Learnings:
 
 I'm currently part of Euron's following Bootcamp:
 
@@ -250,11 +222,9 @@ I'm currently part of Euron's following Bootcamp:
 
 These programs help me stay aligned with how AI systems, Automations are actually built and deployed in industry
 
-### How I Stay Relevant to Industry Trends:
+### X) How I Stay Relevant to Industry Trends:
 
-Another frequent question is how I continuously upskill and stay current.
-
-The credit goes to the learning ecosystems I have invested in:
+Another frequent question is how I manage to upskill myself, and stay relevant to Industry Trends; The credit goes to the learning ecosystems that I have bought to learn and master every skill. I have the following subscriptions to upskill:
 
 (i) Pluralsight – A global leader in tech skill development (recognized by Forrester Wave, 2025)
 
@@ -262,9 +232,9 @@ The credit goes to the learning ecosystems I have invested in:
 
 (iii) Krish Naik Academy – Strong foundations and practical ML thinking
 
-These platforms help me continuously update my skills in line with industry demand.
+These subscriptions shapes me to stay relevant in Industry relevant Skills;
 
-### Learnings from Books: 
+### XI) Learnings from Books: 
 
 My learning does not stop at courses. O’Reilly Media has played a major role in deepening my understanding through books. I have read:
 
@@ -278,7 +248,7 @@ My learning does not stop at courses. O’Reilly Media has played a major role i
 
 I developed the habit of reading technical books around Q3 2025, and over time, I found myself naturally correlating concepts from books, work experience, and real industry trends — which significantly strengthened my practical understanding.
 
-### If you’ve made it this far, thank you once again for your time.
+# If you’ve made it this far, thank you once again for your time.
 
 If you’re looking for:
 
