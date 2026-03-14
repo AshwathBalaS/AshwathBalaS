@@ -24,13 +24,13 @@ My long-term motivation is to become a master and expert in AI and Data Science 
 
 ### II) I'm currently looking for:
 
-Currently Looking for: I am currently exploring opportunities to become a "Data Scientist"
+I am actively exploring opportunities as a Data Scientist.
 
-I want to work as a Data Scientist with Machine Learning/Deep Learning, Github, Docker, Grafana, and build end-to-end AI/ML Systems for my team
+I’m interested in building end-to-end AI/ML systems, working across Machine Learning and Deep Learning, and leveraging tools such as GitHub, Docker, and Grafana to deliver scalable, production-ready AI solutions for teams and organizations.
 
-I’m especially interested in working with tools and technologies like Machine Learning frameworks, GitHub, Docker, Grafana, and building scalable, production-ready AI systems for my team
+### III) My Core Belief About a Data Scientist:
 
-My Belief about a Data Scientist: I believe a Data Scientist is an expert and well rounded professional across:
+I believe a Data Scientist is an expert and well rounded professional across the following core areas:
 
 (i) Mathematics Professional - Goes far beyond—applying Hypothesis Testing, A/B Testing, and rigorous experimentation to determine what actually works and why.
 From optimizing loss functions and interpreting model behavior to validating outcomes with statistical confidence, this depth of expertise is what turns raw data into reliable decisions and intelligent systems.
@@ -43,7 +43,7 @@ From optimizing loss functions and interpreting model behavior to validating out
 
 (v) Adaptable with GenAI and Agentic AI - Goes beyond traditional models by effectively leveraging Generative AI and Agentic AI to build intelligent, autonomous systems. From prompt engineering and RAG-based architectures to tool-using agents and multi-step reasoning workflows, driving next-generation, future-ready AI solutions.
 
-My Belief about a Data Scient: 
+
 
 My Mentors:
 
@@ -57,39 +57,39 @@ My Mentors:
 
 (v) Dhruv (Euron)
 
-And yes finally..., My Skills Include:
+### IV) My Skills:
 
-Mathematics and Statistics: Linear Algebra, Probability & Statistics (Descriptive & Inferential Statistics, Hypothesis Testing, A/B Testing, Chi-Square Test, ANOVA), Differential Calculus
+• Mathematics and Statistics: Linear Algebra, Probability & Statistics (Descriptive & Inferential Statistics, Hypothesis Testing, A/B Testing, Chi-Square Test, ANOVA), Differential Calculus
 
-AI & Data Science: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time-Series Analysis and Forecasting, Generative AI, Agentic AI
+• AI & Data Science: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time-Series Analysis and Forecasting, Generative AI, Agentic AI
 
-AI Operations – MLOps, LLMOps, AIOps
+• AI Operations – MLOps, LLMOps, AIOps
 
-Cloud – Azure, AWS
+• Cloud – Azure, AWS
 
-AI Cloud Platforms: AI Foundry / Microsoft Foundry, Microsoft Co-Pilot Studio, Azure ML, Azure OpenAI, AWS Bedrock, Amazon Bedrock AgentCore, AWS SageMaker
+• AI Cloud Platforms: AI Foundry / Microsoft Foundry, Microsoft Co-Pilot Studio, Azure ML, Azure OpenAI, AWS Bedrock, Amazon Bedrock AgentCore, AWS SageMaker
 
-End-to-End Analytical Platform: Microsoft Fabric
+• End-to-End Analytical Platform: Microsoft Fabric
 
-Programming: Python
+• Programming: Python
 
-AI Application Development & Deployment: FastAPI, Streamlit
+• AI Application Development & Deployment: FastAPI, Streamlit
 
-Big Data: Spark, Kafka
+• Big Data: Spark, Kafka
 
-Database Management: SQL Server
+• Database Management: SQL Server
 
-Data Management & Modeling: Data Quality, Schema Diagram Analysis, Dimensional Data Modeling
+• Data Management & Modeling: Data Quality, Schema Diagram Analysis, Dimensional Data Modeling
 
-BI & Visualization: Power BI, Report Builder
+• BI & Visualization: Power BI, Report Builder
 
-Workflow Automation & Orchestration: Robotic Process Automation (RPA) - Power Automate (Cloud & Desktop), Azure Logic Apps, Azure Document Intelligence, n8n
+• Workflow Automation & Orchestration: Robotic Process Automation (RPA) - Power Automate (Cloud & Desktop), Azure Logic Apps, Azure Document Intelligence, n8n
 
-CI/CD & Containerization: GitHub Actions, Docker, Kubernetes
+• CI/CD & Containerization: GitHub Actions, Docker, Kubernetes
 
-Version Control & Collaboration: Git, GitHub
+• Version Control & Collaboration: Git, GitHub
 
-**AI Skillset Specifics:**
+### V) AI and Data Science Skillset Snapshot:
 
 **I) Mathematical Foundations:**
 
